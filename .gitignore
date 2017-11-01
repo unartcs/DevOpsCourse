@@ -1,0 +1,7 @@
+*.dll
+!my_special_dll.dll
+*.log
+README*
+/README*
+bin/
+!docs/README*
